@@ -1,9 +1,11 @@
+//========================================================//
+//Copyright © 2023 Hamza Ben Khlifa - All rights reserved.//
+//========================================================//
 import 'package:auth_front_end/core/binding/bindings.dart';
 import 'package:auth_front_end/core/localization/change_locale.dart';
 import 'package:auth_front_end/core/localization/translation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import 'core/routes/routes_list.dart';
 import 'core/services/services.dart';
 

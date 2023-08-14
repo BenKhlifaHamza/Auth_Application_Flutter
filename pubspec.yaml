@@ -2,6 +2,7 @@ name: auth_front_end
 description: A small project for authentication
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
+# Copyright © 2023 Hamza Ben Khlifa - All rights reserved.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
